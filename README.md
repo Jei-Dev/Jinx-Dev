@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jinx-Dev.
+- 👀 I’m interested in Websites, Games & Coding.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on a special project.
